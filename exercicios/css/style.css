@@ -1,0 +1,59 @@
+header {
+  background-color: aqua;
+  color: burlywood;
+  text-align: center;
+  margin: 50px;
+  border-radius: 50px;
+}
+
+nav {
+  padding: 10px;
+}
+
+main {
+  background-color: black;
+  color: chartreuse;
+  text-align: center;
+  margin: 30px;
+  padding: 10px;
+  border-radius: 40px;
+}
+
+body {
+  background-color: darkslateblue;
+}
+
+article {
+  color: deeppink;
+}
+
+ul {
+  text-align: center;
+}
+
+u {
+  color: black;
+}
+
+#audio {
+  font-size: 30px;
+  text-align: center;
+}
+video {
+  width: auto;
+  height: auto;
+  border-radius: 60px;
+}
+footer {
+  text-align: center;
+}
+
+#sobre {
+  text-align: center;
+  color: brown;
+  margin: 20px;
+}
+
+#sociais {
+  text-align: center;
+}
